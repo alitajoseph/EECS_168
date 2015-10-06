@@ -28,7 +28,7 @@ It is a brand new repo
 	git clone https://github.com/alitajoseph/EECS_168.git
 
 Want to update your repo
-	 git pull EECS_168
+	 git pull origin master
 
 
 -Alita Joseph
