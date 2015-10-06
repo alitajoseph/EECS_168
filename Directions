@@ -1,0 +1,22 @@
+To commit files:
+
+(All done in terminal)
+
+1. Navigate to Git folder
+	cd EECS_168
+
+2. Check files you need to commit
+	git status
+
+3. Add files you want to commit to github
+	All files:
+		git add .
+
+	Add specific files (don't actually put brackets around file name):
+		git add [name of file]
+
+4. Give message to commit items (quotes necessary)
+	git commit -m "message you want to give"
+
+5. Push changes to repo
+	git push origin master
